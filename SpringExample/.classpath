@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="External jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="External jars/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="External jars/org.springframework.transaction.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-aop-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-aop-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-aop-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-aspects-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-aspects-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-aspects-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-beans-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-beans-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-beans-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-context-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-context-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-context-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-context-support-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-context-support-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-context-support-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-core-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-core-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-core-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-expression-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-expression-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-expression-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-instrument-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-instrument-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-instrument-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-instrument-tomcat-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-instrument-tomcat-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-instrument-tomcat-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-jdbc-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-jdbc-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-jdbc-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-jms-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-jms-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-jms-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-messaging-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-messaging-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-messaging-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-orm-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-orm-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-orm-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-oxm-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-oxm-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-oxm-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-test-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-test-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-test-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-tx-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-tx-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-tx-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-web-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-web-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-web-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-webmvc-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-webmvc-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-webmvc-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-webmvc-portlet-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-webmvc-portlet-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-webmvc-portlet-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-websocket-4.3.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-websocket-4.3.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="External jars/spring-websocket-4.3.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
